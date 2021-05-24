@@ -14,4 +14,17 @@
     left: 0px;
 
 }
+h1{
+    font-size: 35px;
+    font-family:'Newsreader', serif; 
+}
 
+.autore{
+    color: rgb(14, 132, 243);
+}
+
+.nota{
+    color:grey;
+    
+    font-size:15px;
+}
