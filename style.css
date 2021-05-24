@@ -1,0 +1,17 @@
+.intestazione{
+ height: 100px;
+ background-image: url(./img/pattern.png);
+ background-repeat: repeat-x;
+ background-size:contain;
+ background-color: rgb(70, 139, 243);
+ position: relative;
+}
+
+.Logo{
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+
+}
+
