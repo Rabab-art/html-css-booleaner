@@ -43,3 +43,12 @@ p{
 ul{
     font-size: 18px;
 }
+
+.blue{
+    background-color: rgb(121, 206, 245);
+}
+
+.blue1{
+color: white;
+background-color: rgb(17, 90, 248);
+}
