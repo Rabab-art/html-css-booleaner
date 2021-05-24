@@ -52,3 +52,8 @@ ul{
 color: white;
 background-color: rgb(17, 90, 248);
 }
+
+.consigli{
+    font-weight: bold;
+    color: grey;
+}
